@@ -1,6 +1,8 @@
 # RealEstateBlockchain
 
-RealEstateBlockchain is a decentralized application built on a blockchain network designed to revolutionize the real estate industry. By leveraging the power of blockchain technology, RealEstateBlockchain aims to enhance transparency, efficiency, and security in real estate transactions.
+RealEstateBlockchain is a decentralized application built on a blockchain network designed to revolutionize the real estate industry. By leveraging the power of blockchain technology, RealEstateBlockchain aims to enhance transparency, efficiency, and security in real estate transactions. 
+
+Website: https://www.notion.so/FYP-2023-2024-d6b32d8723c8409b9a895f7a08e6ca52
 
 ## Table of Contents
 
