@@ -1,4 +1,4 @@
-# RealEstateBlockchain
+# Real Estate Blockchain - Land Registration / Tokenization
 
 RealEstateBlockchain is a decentralized application built on a blockchain network designed to revolutionize the real estate industry. By leveraging the power of blockchain technology, RealEstateBlockchain aims to enhance transparency, efficiency, and security in real estate transactions. 
 
