@@ -1,0 +1,10 @@
+dotenv: .env
+networks:
+  default: sepolia
+  sepolia:
+    host: https://sepolia.infura.io/v3/${WEB3_INFURA_PROJECT_ID}
+    chain_id: 11155111
+    explorer: https://sepolia.etherscan.io
+wallets:
+  from_key_registrar: ${PRIVATE_KEY_REGISTRAR}
+  from_key_buyer: ${PRIVATE_KEY_BUYER}
